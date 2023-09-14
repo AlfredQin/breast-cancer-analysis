@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=srushtishimpi&label=PAGE+VIEWS&color=FD84BD)
 
-<h1>BREAST CANCER ANALYSIS AND DIGNOSIS</h1>
+<h1>BREAST CANCER ANALYSIS AND DIAGNOSIS</h1>
 
 <p>Machine learning is widely used in bio informatics and particularly in breast cancer diagnosis. In this project, we have used several classification methods to detect breast cancer. Cancer diagnosis is one of the most studied problems in the medical domain. Several researchers have focused in order to improve performance and achieved to obtain satisfactory results. Early detection of cancer is essential for a rapid response and better chances of cure. Unfortunately, early detection of cancer is often difﬁcult because the symptoms of the disease at the beginning are absent. Thus, it is necessary to discover and interpret new knowledge to prevent and minimize the risk adverse consequences.</p>
 
