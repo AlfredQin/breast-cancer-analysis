@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=srushtishimpi&label=PAGE+VIEWS&color=FD84BD)
 
 <h1>BREAST CANCER ANALYSIS AND DIGNOSIS</h1>
+
 <p>Machine learning is widely used in bio informatics and particularly in breast cancer diagnosis. In this project, we have used several classification methods to detect breast cancer. Cancer diagnosis is one of the most studied problems in the medical domain. Several researchers have focused in order to improve performance and achieved to obtain satisfactory results. Early detection of cancer is essential for a rapid response and better chances of cure. Unfortunately, early detection of cancer is often difﬁcult because the symptoms of the disease at the beginning are absent. Thus, it is necessary to discover and interpret new knowledge to prevent and minimize the risk adverse consequences.</p>
 
 <p>To understand this problem more precisely, tools are needed to help oncologists to choose the treatment required for healing or prevention of recurrence by reducing the harmful effects of certain treatments and their costs. In artiﬁcial intelligent, machine learning is a discipline which allows the machine to evolve through a process. Wisconsin Diagnostic Breast Cancer (WDBC) dataset obtained by the university of Wisconsin Hospital is used to classify tumors as benign or malignant.</p>
@@ -49,4 +50,6 @@
 <h2>SOURCES</h2>
 
 [1] UCI Machine Learning Repository: Center for Machine Learning and Intelligent Systems. Breast cancer wisconsin (diagnostic) data set: wdbc.data. http://archive.ics.uci.edu/ml/ machine-learning-databases/breast-cancer-wisconsin/wpbc.data, 1996.
+
+ [**BY SRUSHTI SHIMPI**](https://github.com/srushtishimpi)
 
