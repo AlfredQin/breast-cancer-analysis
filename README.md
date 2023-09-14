@@ -84,4 +84,4 @@ The best models are **Logistic Regression Classifier** and **SGD Classifier** wi
 
 You may use this tutorial freely at your own risk. See [**LICENSE**](https://github.com/srushtishimpi/breast_cancer_wisconsin_Analysis/blob/main/LICENSE).
 
-### [**BY SRUSHTI SHIMPI**](https://github.com/srushtishimpi)
+### BY [SRUSHTI SHIMPI](https://github.com/srushtishimpi)
